@@ -6,10 +6,10 @@ public class Socks
   public string Length;
   public string Material;
 
-  public Socks(string type, string lenght, string material)
+  public Socks(string type, string length, string material)
   {
     Type = type;
-    Lenght = lenght;
+    Length = length;
     Material = material;
   }
 
